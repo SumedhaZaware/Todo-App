@@ -2,6 +2,12 @@
 
 This is a Todo application developed using **flask**(Python) frame work and the data base used is **sqlite**
 
+## Installation
+
+You will need `flask` and `flask_sqlalchemy`. For installation, use the following commands.
+'pip instal flask'
+
+`pip instal flask_sqlalchemy`
 
 **Screenshots:**
 
