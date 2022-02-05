@@ -17,8 +17,6 @@ class Todo(db.Model):
 
 @app.route('/')
 def index():
-    ''' 
-    '''
     # Show all todo's
     todo_list = Todo.query.all()
     print(todo_list)
