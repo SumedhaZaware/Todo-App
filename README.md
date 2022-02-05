@@ -10,7 +10,7 @@ You will need `flask` and `flask_sqlalchemy`. For installation, use the followin
 
 📌`pip instal flask_sqlalchemy`
 
-**Screenshots:**
+## Screenshots
 
 ![image](https://user-images.githubusercontent.com/91329268/152630375-bfd2a2fb-fe04-4323-8969-a4ba421dd451.png)
 
