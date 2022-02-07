@@ -13,8 +13,9 @@ You will need `flask` and `flask_sqlalchemy`. For installation, use the followin
 
 To run this on your system,
 
-1. Open command prompt or terminal(for ubuntu users) in this project's folder.
-2. Use this command, `python app.py`
+1. Download this repository as zip folder in your system.
+2. Open command prompt or terminal(for ubuntu users) in this project's folder.
+3. Use this command, `python app.py`
 
 ## Screenshots
 
